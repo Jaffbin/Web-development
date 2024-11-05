@@ -34,5 +34,6 @@ $artist=array(
 echo $artist[0][0]. " in stock: " .$artist[0][1]. " sold: " .$artist[0][2]."<br>";
 echo $artist[1][0]. " in stock: " .$artist[1][1]. " sold: " .$artist[1][2]."<br>";
 echo $artist[2][0]. " in stock: " .$artist[2][1]. " sold: " .$artist[2][2]."<br>";
+
+
 ?>
-array
